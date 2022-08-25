@@ -7,7 +7,8 @@ I have been asked by my company to create a prototype for submitting my crypto p
 
 ## Technologies
 ###### Resource 
-- crypto_market_data.csv file (./Resources/crypto_market_data.csv)
+- crypto_market_data.csv file 
+- Dhttp://localhost:8888/lab/tree/Resources/crypto_market_data.csv
 
    
 ###### Tools
@@ -43,7 +44,7 @@ Final Analysis:
 ![](./Resources/Screenshots/Screenshot_composit_scatter.png)
 
 
-Using clustering allowed me to visually analyze the crypto data to enhance the diversity of the portfolio based on the coin_id. Clustering the different coins into groups will show which coins that perform similarly and therfore choosing coins in different clusters to create a cyrpto portfolio along with voliti diversitytherefore
+Using clustering allowed me to visually analyze the crypto data to enhance the diversity of the portfolio based on the coin_id. Clustering the different coins into groups will show which coins that perform similarly and therefore choosing coins in different clusters to create a cyrpto portfolio along with volitility and retuns could really improve a portfolios diversity and performance.
 
 
 ## Contributors
