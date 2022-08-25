@@ -8,7 +8,7 @@ I have been asked by my company to create a prototype for submitting my crypto p
 ## Technologies
 ###### Resource 
 - crypto_market_data.csv file 
-- Dhttp://localhost:8888/lab/tree/Resources/crypto_market_data.csv
+-- http://localhost:8888/lab/tree/Resources/crypto_market_data.csv
 
    
 ###### Tools
